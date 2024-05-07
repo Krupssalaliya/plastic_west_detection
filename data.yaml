@@ -1,0 +1,12 @@
+train: /content/drive/MyDrive/yolo8/dataset/train/images 
+val: /content/drive/MyDrive/yolo8/dataset/valid/images 
+# Classes
+nc: 3
+names: ['Plastic bag','Tin can','Bottle']
+
+
+
+
+
+
+
